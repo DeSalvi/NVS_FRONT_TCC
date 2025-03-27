@@ -1,6 +1,6 @@
 FRONT END PROJETO NEW VISION
 
-Front-end desenvolvido com o uso das ferramentas Visual Studio Code.
+Front-end desenvolvido com o uso das ferramentas Visual Studio Code, React + Vite.
 
 Nessa pasta possuimos toda a parte de Html, CSS e JavaScript.
 
